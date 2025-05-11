@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/hinokami-react-site/static/css/main.f855e6bc.css",
-    "main.js": "/hinokami-react-site/static/js/main.fe622b8e.js",
+    "main.js": "/hinokami-react-site/static/js/main.2335a111.js",
     "static/js/453.e8352dea.chunk.js": "/hinokami-react-site/static/js/453.e8352dea.chunk.js",
-    "static/media/logo.svg": "/hinokami-react-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/hinokami-react-site/index.html",
     "main.f855e6bc.css.map": "/hinokami-react-site/static/css/main.f855e6bc.css.map",
-    "main.fe622b8e.js.map": "/hinokami-react-site/static/js/main.fe622b8e.js.map",
+    "main.2335a111.js.map": "/hinokami-react-site/static/js/main.2335a111.js.map",
     "453.e8352dea.chunk.js.map": "/hinokami-react-site/static/js/453.e8352dea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.fe622b8e.js"
+    "static/js/main.2335a111.js"
   ]
 }
